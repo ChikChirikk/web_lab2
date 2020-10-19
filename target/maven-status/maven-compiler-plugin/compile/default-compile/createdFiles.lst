@@ -1,0 +1,5 @@
+main\java\beans\Entry.class
+main\java\servlets\ControllerServlet.class
+main\java\servlets\ResetServlet.class
+main\java\beans\EntriesBean.class
+main\java\servlets\AreaCheckServlet.class
